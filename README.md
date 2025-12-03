@@ -36,4 +36,7 @@ Wireframe link
 
 https://www.figma.com/design/fbQOpumfSygqpiHe6PyCOT/ReClaim?node-id=0-1&t=xMuZh3FV6BG5iUnS-1
 
+Mockup link
+
+https://www.figma.com/design/fbQOpumfSygqpiHe6PyCOT/ReClaim?node-id=78-266&p=f&t=gnqPwL0YRO1lNRrF-0
 
